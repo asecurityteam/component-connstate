@@ -5,8 +5,8 @@
   unused-packages = true
 
 [[constraint]]
-  branch = "master"
   name = "github.com/asecurityteam/settings"
+  version = "^0.1.0"
 
 [[constraint]]
   name = "github.com/asecurityteam/component-stat"

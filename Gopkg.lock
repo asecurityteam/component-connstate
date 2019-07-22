@@ -10,12 +10,12 @@
   version = "v0.1.0"
 
 [[projects]]
-  branch = "master"
   digest = "1:391bbf4e67d50d74c1bb7dfad79222181327ff6d9a32324ed022b12051b5d5e8"
   name = "github.com/asecurityteam/settings"
   packages = ["."]
   pruneopts = "UT"
   revision = "d4142d59861b3779aeba32111096d43ae940e49d"
+  version = "v0.1.0"
 
 [[projects]]
   digest = "1:ffe9824d294da03b391f44e1ae8281281b4afc1bdaa9588c9097785e3af10cec"
@@ -93,7 +93,7 @@
   name = "golang.org/x/net"
   packages = ["context"]
   pruneopts = "UT"
-  revision = "b5b0513f8c1bb7c1e3e6f168fba117131fe2614a"
+  revision = "da137c7871d730100384dbcf36e6f8fa493aef5b"
 
 [solve-meta]
   analyzer-name = "dep"

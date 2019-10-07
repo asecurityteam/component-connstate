@@ -1,6 +1,6 @@
 <a id="markdown-component-connstate---settings-component-for-collecting-http-server-metrics" name="component-connstate---settings-component-for-collecting-http-server-metrics"></a>
 # component-connstate - Settings component for collecting HTTP server metrics
-
+[![GoDoc](https://godoc.org/github.com/asecurityteam/component-connstate?status.svg)](https://godoc.org/github.com/asecurityteam/component-connstate)
 <!-- TOC -->
 
 - [component-connstate - Settings component for collecting HTTP server metrics](#component-connstate---settings-component-for-collecting-http-server-metrics)

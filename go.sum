@@ -1,7 +1,10 @@
+github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
 github.com/asecurityteam/component-stat v0.1.0 h1:XTrPmQOyvs7iK5iW1ll6W5Eh7ZKDnZnrHtljYq1YAh8=
 github.com/asecurityteam/component-stat v0.1.0/go.mod h1:OiwAVfs+FntaUimVzyjfzNf4oiKZxM6L73zfTVqfvdo=
 github.com/asecurityteam/settings v0.1.0 h1:W5CA/x0gby2Ilo6zV0GQVqgDdMX7AvcH8lMbrS718Io=
 github.com/asecurityteam/settings v0.1.0/go.mod h1:Wb6bajm1AgHtjLP8ecv7RqUTCX1hvrIhgX4sF3Ras8c=
+github.com/asecurityteam/settings v0.4.0 h1:L7fK4WqkvnvglBrfLBgp77LUDR2cxfSNWGFex7lrMK0=
+github.com/asecurityteam/settings v0.4.0/go.mod h1:frhlF5kT7WvdiRX3eQlCOjSppbYUfxxjM9xKTvYjcGo=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -16,6 +19,7 @@ github.com/rs/xhandler v0.0.0-20151224012956-d9d9599b6aaf h1:Df4QtDSQdFg5jenZonL
 github.com/rs/xhandler v0.0.0-20151224012956-d9d9599b6aaf/go.mod h1:RvLn4FgxWubrpZHtQLnOf6EwhN2hEMusxZOhcW9H3UQ=
 github.com/rs/xstats v0.0.0-20170813190920-c67367528e16 h1:m0aigb++JZXs+tzTO60LOOKSOXWyr7scDxlaSvU6HN8=
 github.com/rs/xstats v0.0.0-20170813190920-c67367528e16/go.mod h1:5Cg6M3g+Dp4RSFNYBtjJxxjksZc00LbESra5Sz6fGSU=
+github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/spf13/cast v1.3.0 h1:oget//CVOEoFewqQxwr0Ej5yjygnqGkvggSE/gB35Q8=
 github.com/spf13/cast v1.3.0/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

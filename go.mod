@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/asecurityteam/component-stat v0.5.0
 	github.com/asecurityteam/settings v0.7.0
-	github.com/golang/mock v1.5.0
+	github.com/golang/mock v1.6.0
 	github.com/stretchr/testify v1.8.2
 )
 

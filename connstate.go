@@ -8,7 +8,7 @@ import (
 	"time"
 
 	stat "github.com/asecurityteam/component-stat"
-	"github.com/asecurityteam/settings"
+	"github.com/asecurityteam/settings/v2"
 )
 
 const (

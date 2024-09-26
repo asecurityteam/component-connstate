@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/asecurityteam/settings"
+	"github.com/asecurityteam/settings/v2"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/require"
 )

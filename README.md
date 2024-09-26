@@ -1,20 +1,7 @@
-<a id="markdown-component-connstate---settings-component-for-collecting-http-server-metrics" name="component-connstate---settings-component-for-collecting-http-server-metrics"></a>
 # component-connstate - Settings component for collecting HTTP server metrics
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-connstate?status.svg)](https://godoc.org/github.com/asecurityteam/component-connstate)
-<!-- TOC -->
+<!-- TOC -->autoauto- [component-connstate - Settings component for collecting HTTP server metrics](#component-connstate---settings-component-for-collecting-http-server-metrics)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
-- [component-connstate - Settings component for collecting HTTP server metrics](#component-connstate---settings-component-for-collecting-http-server-metrics)
-    - [Overview](#overview)
-    - [Quick Start](#quick-start)
-    - [Status](#status)
-    - [Contributing](#contributing)
-        - [Building And Testing](#building-and-testing)
-        - [License](#license)
-        - [Contributing Agreement](#contributing-agreement)
-
-<!-- /TOC -->
-
-<a id="markdown-overview" name="overview"></a>
 ## Overview
 
 This is a [`settings`](https://github.com/asecurityteam/settings) that enables
@@ -23,7 +10,6 @@ constructing a metrics gathering component that integrates with the
 works by tracking the state of all active connections and any state changes of
 a connection while the server runs.
 
-<a id="markdown-quick-start" name="quick-start"></a>
 ## Quick Start
 
 ```golang
@@ -35,7 +21,7 @@ import (
 
     stat "github.com/asecurityteam/component-stat"
     stat "github.com/asecurityteam/component-connstate"
-    "github.com/asecurityteam/settings"
+    "github.com/asecurityteam/settings/v2"
 )
 
 func main() {
@@ -55,16 +41,13 @@ func main() {
 }
 ```
 
-<a id="markdown-status" name="status"></a>
 ## Status
 
 This project is in incubation which means we are not yet operating this tool in
 production and the interfaces are subject to change.
 
-<a id="markdown-contributing" name="contributing"></a>
 ## Contributing
 
-<a id="markdown-building-and-testing" name="building-and-testing"></a>
 ### Building And Testing
 
 We publish a docker image called [SDCLI](https://github.com/asecurityteam/sdcli) that
@@ -92,12 +75,10 @@ the Makefile:
 
     Report the combined coverage for unit and integration tests
 
-<a id="markdown-license" name="license"></a>
 ### License
 
 This project is licensed under Apache 2.0. See LICENSE.txt for details.
 
-<a id="markdown-contributing-agreement" name="contributing-agreement"></a>
 ### Contributing Agreement
 
 Atlassian requires signing a contributor's agreement before we can accept a patch. If

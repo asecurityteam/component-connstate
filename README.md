@@ -1,5 +1,19 @@
 # component-connstate - Settings component for collecting HTTP server metrics
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-connstate?status.svg)](https://godoc.org/github.com/asecurityteam/component-connstate)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=bugs)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=code_smells)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=coverage)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=ncloc)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=alert_status)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=security_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=sqale_index)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-connstate&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=asecurityteam_component-connstate)
+
+
 <!-- TOC -->autoauto- [component-connstate - Settings component for collecting HTTP server metrics](#component-connstate---settings-component-for-collecting-http-server-metrics)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
 ## Overview

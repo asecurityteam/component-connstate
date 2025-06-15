@@ -2,10 +2,10 @@ module github.com/asecurityteam/component-connstate
 
 go 1.22
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require (
-	github.com/asecurityteam/component-stat v0.5.2
+	github.com/asecurityteam/component-stat v0.5.3
 	github.com/asecurityteam/settings/v2 v2.0.3
 	github.com/golang/mock v1.6.0
 	github.com/stretchr/testify v1.10.0

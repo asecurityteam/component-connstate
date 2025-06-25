@@ -1,7 +1,7 @@
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883 h1:bvNMNQO63//z+xNgfBlViaCIJKLlCJ6/fmUseuG0wVQ=
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
-github.com/asecurityteam/component-stat v0.5.2 h1:euBm5pDrtjpSNeui/Q/nLGaakf9M8sYgPRrfH9pbVqQ=
-github.com/asecurityteam/component-stat v0.5.2/go.mod h1:+tQXQcS98gHT+8lM67Z8vuTaLruVOCvWCG/GKZAf1wg=
+github.com/asecurityteam/component-stat v0.5.3 h1:UKMVYtyQCRaE2IjdsClFF3DIvNyKwWMRScOH7PUsrHk=
+github.com/asecurityteam/component-stat v0.5.3/go.mod h1:3PssU4IGVhfQJKi3YjJCfR4RvcXrbStGDTCF6M9kHEc=
 github.com/asecurityteam/settings/v2 v2.0.3 h1:dYdghLR/4RvB6PRXZQAB3phz5yj5JMAz9uZ8Y4StxAA=
 github.com/asecurityteam/settings/v2 v2.0.3/go.mod h1:Qa/2EIsIvqNv5xD9xrmea7mLo+7+ZFbKpJWB7HPjfwM=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

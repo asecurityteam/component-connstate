@@ -1,6 +1,6 @@
 module github.com/asecurityteam/component-connstate
 
-go 1.22
+go 1.24.5
 
 toolchain go1.24.4
 
